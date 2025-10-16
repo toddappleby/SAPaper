@@ -1,0 +1,4 @@
+phase,event_class,n_events,mean_head_entries,std_head_entries,mean_active_presses,std_active_presses,mean_inactive_presses,std_inactive_presses
+SelfAdmin,inactive_press,7,0.14285714285714285,0.37796447300922725,0.0,0.0,0.14285714285714285,0.37796447300922725
+SelfAdmin,rewarded_active_press,10,0.8,0.9189365834726815,0.4,0.6992058987801011,0.0,0.0
+SelfAdmin,timeout_active_press,4,0.5,1.0,0.25,0.5,0.0,0.0

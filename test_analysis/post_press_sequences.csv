@@ -1,0 +1,22 @@
+subject,subject_original,phase,filename,press_time,event_class,is_rewarded,post_press_head_entries,post_press_active_presses,post_press_inactive_presses,sequence_length
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,541.9,inactive_press,false,0,0,1,1
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,544.67,inactive_press,false,0,0,0,0
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,748.33,inactive_press,false,0,0,0,0
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,1441.47,rewarded_active_press,true,1,0,0,11
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,2317.52,rewarded_active_press,true,0,0,0,10
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,2474.42,inactive_press,false,0,0,0,0
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,2970.72,rewarded_active_press,true,0,2,0,14
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,2972.02,timeout_active_press,false,0,1,0,7
+T004,T4,SelfAdmin,2025-05-13_09h45m_Subject T4.txt,2973.55,timeout_active_press,false,0,0,0,5
+T002,T2,SelfAdmin,2025-05-13_09h45m_Subject T2.txt,424.39,rewarded_active_press,true,0,1,0,12
+T002,T2,SelfAdmin,2025-05-13_09h45m_Subject T2.txt,426.1,timeout_active_press,false,0,0,0,5
+T002,T2,SelfAdmin,2025-05-13_09h45m_Subject T2.txt,515.1,rewarded_active_press,true,0,0,0,10
+T002,T2,SelfAdmin,2025-05-13_09h45m_Subject T2.txt,3592.6,inactive_press,false,1,0,0,1
+T001,T1,SelfAdmin,2025-05-13_09h45m_Subject T1.txt,100.35,inactive_press,false,0,0,0,0
+T001,T1,SelfAdmin,2025-05-13_09h45m_Subject T1.txt,6351.34,inactive_press,false,0,0,0,0
+T003,T3,SelfAdmin,2025-05-13_09h45m_Subject T3.txt,453.45,rewarded_active_press,true,0,0,0,10
+T003,T3,SelfAdmin,2025-05-13_09h45m_Subject T3.txt,536.09,rewarded_active_press,true,2,1,0,14
+T003,T3,SelfAdmin,2025-05-13_09h45m_Subject T3.txt,537.23,timeout_active_press,false,2,0,0,7
+T003,T3,SelfAdmin,2025-05-13_09h45m_Subject T3.txt,1309.3,rewarded_active_press,true,1,0,0,11
+T003,T3,SelfAdmin,2025-05-13_09h45m_Subject T3.txt,1374.52,rewarded_active_press,true,2,0,0,12
+T003,T3,SelfAdmin,2025-05-13_09h45m_Subject T3.txt,1682.45,rewarded_active_press,true,2,0,0,12

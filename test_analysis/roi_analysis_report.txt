@@ -1,0 +1,41 @@
+======================================================================
+MedPC ROI EVENT ANALYSIS REPORT
+======================================================================
+
+This report summarizes behavioral sequences following different
+types of lever press events for ROI analysis.
+
+Event Types:
+  • rewarded_active_press: Active press followed by reinforcement
+  • timeout_active_press: Active press during timeout (no reward)
+  • unrewarded_active_press: Active press NOT followed by reward
+  • inactive_press: Inactive lever press
+
+----------------------------------------------------------------------
+SUMMARY BY EVENT TYPE
+----------------------------------------------------------------------
+
+
+Phase: SelfAdmin
+==================================================
+
+INACTIVE_PRESS
+  N events: 7
+  Head entries (10s): 0.14 ± 0.38
+  Head entry latency: N/A ± N/A sec
+  Active presses (10s): 0.00 ± 0.00
+  Inactive presses (10s): 0.14 ± 0.38
+
+REWARDED_ACTIVE_PRESS
+  N events: 10
+  Head entries (10s): 0.80 ± 0.92
+  Head entry latency: N/A ± N/A sec
+  Active presses (10s): 0.40 ± 0.70
+  Inactive presses (10s): 0.00 ± 0.00
+
+TIMEOUT_ACTIVE_PRESS
+  N events: 4
+  Head entries (10s): 0.50 ± 1.00
+  Head entry latency: N/A ± N/A sec
+  Active presses (10s): 0.25 ± 0.50
+  Inactive presses (10s): 0.00 ± 0.00

@@ -1,0 +1,22 @@
+subject,subject_original,phase,group,filename,time_seconds,time_minutes,response_code,response_type,event_class,is_rewarded,next_event_type,time_to_next_event
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,541.9,9.031666666666666,23.0,inactive_lever,inactive_press,false,inactive_lever,2.769999999999982
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,544.67,9.077833333333333,23.0,inactive_lever,inactive_press,false,other_25,55.32000000000005
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,748.33,12.472166666666668,23.0,inactive_lever,inactive_press,false,head_entry,229.62
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,1441.47,24.0245,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,2317.52,38.62533333333333,2.0,active_lever,rewarded_active_press,true,timeout_start,0.010000000000218279
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,2474.42,41.24033333333333,23.0,inactive_lever,inactive_press,false,head_entry,360.03999999999996
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,2970.72,49.51199999999999,2.0,active_lever,rewarded_active_press,true,timeout_start,0.010000000000218279
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,2972.02,49.53366666666667,21.0,active_lever,timeout_active_press,false,active_lever,1.5300000000002
+T004,T4,SelfAdmin,One,2025-05-13_09h45m_Subject T4.txt,2973.55,49.55916666666667,21.0,active_lever,timeout_active_press,false,other_18,1.1799999999998363
+T002,T2,SelfAdmin,One,2025-05-13_09h45m_Subject T2.txt,424.39,7.073166666666666,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
+T002,T2,SelfAdmin,One,2025-05-13_09h45m_Subject T2.txt,426.1,7.1016666666666675,21.0,active_lever,timeout_active_press,false,other_18,2.2999999999999545
+T002,T2,SelfAdmin,One,2025-05-13_09h45m_Subject T2.txt,515.1,8.585,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
+T002,T2,SelfAdmin,One,2025-05-13_09h45m_Subject T2.txt,3592.6,59.876666666666665,23.0,inactive_lever,inactive_press,false,head_entry,4.820000000000164
+T001,T1,SelfAdmin,One,2025-05-13_09h45m_Subject T1.txt,100.35,1.6724999999999999,23.0,inactive_lever,inactive_press,false,head_entry,28.819999999999993
+T001,T1,SelfAdmin,One,2025-05-13_09h45m_Subject T1.txt,6351.34,105.85566666666666,23.0,inactive_lever,inactive_press,false,head_entry,14.479999999999563
+T003,T3,SelfAdmin,One,2025-05-13_09h45m_Subject T3.txt,453.45,7.5575,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
+T003,T3,SelfAdmin,One,2025-05-13_09h45m_Subject T3.txt,536.09,8.934833333333334,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
+T003,T3,SelfAdmin,One,2025-05-13_09h45m_Subject T3.txt,537.23,8.953833333333334,21.0,active_lever,timeout_active_press,false,other_18,2.8700000000000045
+T003,T3,SelfAdmin,One,2025-05-13_09h45m_Subject T3.txt,1309.3,21.821666666666665,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
+T003,T3,SelfAdmin,One,2025-05-13_09h45m_Subject T3.txt,1374.52,22.908666666666665,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
+T003,T3,SelfAdmin,One,2025-05-13_09h45m_Subject T3.txt,1682.45,28.040833333333335,2.0,active_lever,rewarded_active_press,true,timeout_start,0.009999999999990905
